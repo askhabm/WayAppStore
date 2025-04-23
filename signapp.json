@@ -9,6 +9,7 @@
       "localizedDescription": "WhatsApp+ разблокирован Watusi",
       "version": "2.24.8.81",
       "versionDate": "2025-04-22",
+      "size": "106",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/WhatsAppAll.25.6.2.tg_@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/whatsapp-icon.png",
       "tintColor": "25D366"
@@ -19,8 +20,8 @@
       "name": "Сбербанк Онлайн",
       "bundleIdentifier": "com.sberbank.app",
       "developerName": "askhabm",
+      "size": "224",
       "localizedDescription": "Удаленный из AppStore!",
-      "version": "2.24.8.81",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sberbank_tg_@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/sberbank-icon.png",
