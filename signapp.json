@@ -14,8 +14,6 @@
       "iconURL": "https://askhabm.github.io/SignApp/whatsapp-icon.png",
       "tintColor": "25D366"
     }
-  ]
-}
 {
       "name": "Сбербанк Онлайн",
       "bundleIdentifier": "com.sberbank.app",
