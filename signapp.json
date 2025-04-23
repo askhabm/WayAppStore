@@ -3,7 +3,7 @@
   "identifier": "com.signapp.repo",
   "apps": [
     {
-      "name": "WhatsApp",
+      "name": "WhatsApp Watusi",
       "bundleIdentifier": "com.whatsapp.app",
       "developerName": "askhabm",
       "version": "2.24.8.81",
