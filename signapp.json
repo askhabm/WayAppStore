@@ -1,0 +1,16 @@
+{
+  "name": "SignApp",
+  "identifier": "com.signapp.repo",
+  "apps": [
+    {
+      "name": "WhatsApp",
+      "bundleIdentifier": "com.whatsapp.app",
+      "developerName": "askhabm",
+      "version": "2.24.8.81",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://askhabm.github.io/signapp/WhatsApp.ipa",
+      "iconURL": "https://askhabm.github.io/signapp/whatsapp-icon.png",
+      "tintColor": "25D366"
+    }
+  ]
+}
