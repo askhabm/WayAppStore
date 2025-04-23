@@ -16,10 +16,6 @@
   ]
 }
 {
-  "name": "SignApp",
-  "identifier": "com.signapp.repo",
-  "apps": [
-    {
       "name": "Сбербанк Онлайн",
       "bundleIdentifier": "com.sberbank.app",
       "developerName": "askhabm",
