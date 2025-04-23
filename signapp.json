@@ -15,3 +15,20 @@
     }
   ]
 }
+{
+  "name": "SignApp",
+  "identifier": "com.signapp.repo",
+  "apps": [
+    {
+      "name": "Сбербанк Онлайн",
+      "bundleIdentifier": "com.sberbank.app",
+      "developerName": "askhabm",
+      "localizedDescription": "Удаленный из AppStore!",
+      "version": "2.24.8.81",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sberbank_tg_@signappfiles.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/sberbank-icon.png",
+      "tintColor": "25D366"
+    }
+  ]
+}
