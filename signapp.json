@@ -45,7 +45,7 @@
       "developerName": "askhabm",
       "localizedDescription": "",
       "version": "1.0.0",
-      "versionDate": "2025-04-24",
+      "versionDate": "2025-04-22",
       "size": "31600000",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sovkombank_tg.@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/sovkombank.png",
@@ -55,7 +55,7 @@
       "name": "RUTUBE",
       "bundleIdentifier": "com.rutube.app",
       "developerName": "askhabm",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "version": "1.0.0",
       "versionDate": "2025-04-24",
       "size": "43000000",
@@ -82,10 +82,10 @@
       "developerName": "askhabm",
       "size": "180000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/T-Bank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/tbank.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/tbank.png",
       "tintColor": "25D366"
     },
     {
@@ -94,10 +94,10 @@
       "developerName": "askhabm",
       "size": "26000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/RSHB.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/rshb.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/rshb.png",
       "tintColor": "25D366"
     },
     {
@@ -106,10 +106,10 @@
       "developerName": "askhabm",
       "size": "136000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Alfa.1.4.2.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/alfabank.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/alfabank.png",
       "tintColor": "25D366"
     },
     {
@@ -118,10 +118,10 @@
       "developerName": "askhabm",
       "size": "116000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/rosbank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/rosbank.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/rosbank.png",
       "tintColor": "25D366"
     },
     {
@@ -130,10 +130,10 @@
       "developerName": "askhabm",
       "size": "67000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/PS.Balans.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/psbalans.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/psbalans.png",
       "tintColor": "25D366"
     },
     {
@@ -142,10 +142,10 @@
       "developerName": "askhabm",
       "size": "152000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "Удален из AppStore!",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/pochtabank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/pochtabank.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/pochtabank.png",
       "tintColor": "25D366"
     },
 {
