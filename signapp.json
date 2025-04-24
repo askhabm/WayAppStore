@@ -1,7 +1,7 @@
 {
   "name": "SignApp",
   "identifier": "com.signapp.repo",
-  "iconURL": "https://askhabm.github.io/SignApp/signapp.png
+  "iconURL": "https://askhabm.github.io/SignApp/signapp.png",
   "apps": [
     {
       "name": "WhatsApp+",
