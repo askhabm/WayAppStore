@@ -3,22 +3,17 @@
   "identifier": "com.signapp.repo",
   "apps": [
     {
-      "name": "СовкомБанк",
-      "bundleIdentifier": "com.sovkombank.app",
-      "developerName": "askhabm",
-      "localizedDescription": "Удален из AppStore!",
-      "version": "1.0.0",
-      "versionDate": "2025-04-24",
-      "size": "31600000",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sovkombank_tg.@signappfiles.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/sovkombank.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "WhatsApp Watusi",
+      "name": "WhatsApp+",
       "bundleIdentifier": "com.whatsapp.app",
       "developerName": "askhabm",
-      "localizedDescription": "WhatsApp+ разблокирован Watusi",
+      "localizedDescription": "▪️Антиудаление фото видео
+ ▪️Антиудаление статусов.
+ ▪️Просмотр и сохранение   одноразовых фото и видео.
+ ▪️Сохранение статусов
+ ▪️Замарозка онлайна
+ ▪️Подмена контактов
+ ▪️Скрытые чаты
+ ▪️Убрана реклама Watusi.",
       "version": "2.24.8.81",
       "versionDate": "2025-04-22",
       "size": "106000000",
@@ -36,6 +31,80 @@
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sberbank_tg_@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/sberbank-icon.png",
+      "tintColor": "25D366"
+    },
+ {
+      "name": "СовкомБанк",
+      "bundleIdentifier": "com.sovkombank.app",
+      "developerName": "askhabm",
+      "localizedDescription": "Удален из AppStore!",
+      "version": "1.0.0",
+      "versionDate": "2025-04-24",
+      "size": "31600000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sovkombank_tg.@signappfiles.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/sovkombank.png",
+      "tintColor": "25D366"
+    },
+{
+      "name": "WABusiness+",
+      "bundleIdentifier": "com.sovkombank.app",
+      "developerName": "askhabm",
+      "localizedDescription": "▪️Антиудаление фото видео
+ ▪️Антиудаление статусов.
+ ▪️Просмотр и сохранение   одноразовых фото и видео.
+ ▪️Сохранение статусов
+ ▪️Замарозка онлайна
+ ▪️Подмена контактов
+ ▪️Скрытые чаты
+ ▪️Убрана реклама Watusi.",
+      "version": "1.0.0",
+      "versionDate": "2025-04-24",
+      "size": "110000000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/WABusinessAll.25.6.2.tg.@signappfiles.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/wabusiness.png",
+      "tintColor": "25D366"
+    },
+
+{
+      "name": "RUTUBE",
+      "bundleIdentifier": "com.rutube.app",
+      "developerName": "askhabm",
+      "localizedDescription": "Удален из AppStore!",
+      "version": "1.0.0",
+      "versionDate": "2025-04-24",
+      "size": "43000000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/RUTUBE.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/rutube.png",
+      "tintColor": "25D366"
+    },
+
+{
+      "name": "Instagram+",
+      "bundleIdentifier": "com.instagram.app",
+      "developerName": "askhabm",
+      "localizedDescription": "! ▪️Скачивание сторисов и reels
+  ▪️Сохранени одноразовых файлов в директе
+  ▪️Анонимный просмотр историй и эфиров
+  ▪️Увеличение аватарки
+  ▪️Скрытый просмотр директа",
+      "version": "1.0.0",
+      "versionDate": "2025-04-24",
+      "size": "31600000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Instagram.+.tg.@signappfiles.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/instagram.png",
+      "tintColor": "25D366"
+    },
+
+{
+      "name": "AlightMotion",
+      "bundleIdentifier": "com.alightmotion.app",
+      "developerName": "askhabm",
+      "localizedDescription": "Активирована подписка!",
+      "version": "5.1.0",
+      "versionDate": "2025-04-24",
+      "size": "31600000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Alight.Motion.tg.@signappfiles",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/sovkombank.png",
       "tintColor": "25D366"
     }
   ]
