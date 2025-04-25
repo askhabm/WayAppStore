@@ -148,6 +148,19 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/pochtabank.png",
       "tintColor": "25D366"
     },
+    
+    {
+      "name": "PicsArt",
+      "bundleIdentifier": "com.picsart.app",
+      "developerName": "askhabm",
+      "size": "95000000",
+      "version": "1.0.0",
+      "localizedDescription": "Активирована подписка!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/PicsArt.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/picsart.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion",
       "bundleIdentifier": "com.alightmotion.app",
