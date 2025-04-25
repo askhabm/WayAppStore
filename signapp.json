@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "WhatsApp+",
-      "bundleIdentifier": "net.whatapp.WhatsApp+"
+      "bundleIdentifier": "net.whatapp.WhatsApp+",
       "developerName": "askhabm",
       "localizedDescription": "▪️Антиудаление фото видео ▪️Антиудаление статусов. ▪️Просмотр и сохранение   одноразовых фото и видео. ▪️Сохранение статусов ▪️Замарозка онлайна ▪️Подмена контактов ▪️Скрытые чаты ▪️Убрана реклама Watusi.",
       "version": "25.6.2",
@@ -20,7 +20,7 @@
       "bundleIdentifier": "net.whatsapp.SMB+",
       "developerName": "askhabm",
       "localizedDescription": "▪️Антиудаление фото виде ▪️Антиудаление статусов. ▪️Просмотр и сохранение   одноразовых фото и видео. ▪️Сохранение статусов ▪️Замарозка онлайна ▪️Подмена контактов ▪️Скрытые чаты ▪️Убрана реклама Watusi.",
-      "version": "25.6.2",
+      "version": "25.6.72",
       "versionDate": "2025-04-24",
       "size": "110000000",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/WABusinessAll.25.6.72.tg.@signappfiles.ipa",
