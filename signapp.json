@@ -164,6 +164,7 @@
      {
       "name": "Avito",
       "bundleIdentifier": "com.avito.app",
+      "bundleId": "com.avito.app",
       "developerName": "askhabm",
       "size": "416000000",
       "version": "1.0.0",
