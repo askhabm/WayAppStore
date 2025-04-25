@@ -5,6 +5,7 @@
   "apps": [
     {
       "name": "WhatsApp+",
+      "bundleIdentifier": "net.whatapp.WhatsApp+"
       "developerName": "askhabm",
       "localizedDescription": "▪️Антиудаление фото видео ▪️Антиудаление статусов. ▪️Просмотр и сохранение   одноразовых фото и видео. ▪️Сохранение статусов ▪️Замарозка онлайна ▪️Подмена контактов ▪️Скрытые чаты ▪️Убрана реклама Watusi.",
       "version": "25.6.2",
@@ -16,7 +17,7 @@
     },
     {
       "name": "WABusiness+",
-      "bundleIdentifier": "com.sovkombank.app",
+      "bundleIdentifier": "net.whatsapp.SMB+",
       "developerName": "askhabm",
       "localizedDescription": "▪️Антиудаление фото виде ▪️Антиудаление статусов. ▪️Просмотр и сохранение   одноразовых фото и видео. ▪️Сохранение статусов ▪️Замарозка онлайна ▪️Подмена контактов ▪️Скрытые чаты ▪️Убрана реклама Watusi.",
       "version": "25.6.2",
