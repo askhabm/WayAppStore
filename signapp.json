@@ -161,6 +161,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/picsart.png",
       "tintColor": "25D366"
     },
+     {
+      "name": "Avito",
+      "bundleIdentifier": "com.avito.app",
+      "developerName": "askhabm",
+      "size": "416000000",
+      "version": "1.0.0",
+      "localizedDescription": "Дубликат",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Avito.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/avito.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion",
       "bundleIdentifier": "com.alightmotion.app",
