@@ -209,7 +209,7 @@
       "localizedDescription": "▪️Скачивать музыку в кэш внутри приложения.  ▪️Скрыть рекламу в историях. ▪️Можно использовать с оригинальной версией  ▪️Скрыть сюжеты и клипы, обложки в профилях и группах. ▪️Быстро открывать Мультиаккаунт, удерживая крайнюю правую кнопку на таббаре.▪️ Множество других функций в настройках мода. ",
       "versionDate": "2025-04-23",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Vkreborn.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/vkreborn.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/vkreborn.png",
       "tintColor": "25D366"
     },
   {
@@ -221,7 +221,7 @@
       "localizedDescription": "Активирована подписка!",
       "versionDate": "2025-04-23",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Yandexmusic.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/yandexmusic.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/yandexmusic.png",
       "tintColor": "25D366"
     },
     
