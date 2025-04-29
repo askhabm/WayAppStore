@@ -236,7 +236,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/bazaart.png",
       "tintColor": "25D366"
     },
-    
+    {
+      "name": "ReelsApp",
+      "bundleIdentifier": "com.reels.app",
+      "developerName": "askhabm",
+      "size": "224000000",
+      "version": "6.5",
+      "localizedDescription": "Активирована подписка!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/ReelsApp.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/reelsapp.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion",
       "bundleIdentifier": "com.alightmotion.app",
