@@ -224,6 +224,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/yandexmusic.png",
       "tintColor": "25D366"
     },
+    {
+      "name": "Bazaart",
+      "bundleIdentifier": "com.bazaart.app",
+      "developerName": "askhabm",
+      "size": "224000000",
+      "version": "10.6.5",
+      "localizedDescription": "**Активирована подписка!**",
+      "versionDate": "2025-04-23",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Bazaart.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/bazaart.png",
+      "tintColor": "25D366"
+    },
     
 {
       "name": "AlightMotion",
