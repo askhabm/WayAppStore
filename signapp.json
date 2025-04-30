@@ -260,6 +260,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/purestatus.png",
       "tintColor": "25D366"
     },
+    {
+      "name": "Dazz",
+      "bundleIdentifier": "com.dazz.app",
+      "developerName": "askhabm",
+      "size": "85000000",
+      "version": "2.9.6",
+      "localizedDescription": "Активирована подписка!",
+      "versionDate": "2025-04-23",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Dazz.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/dazz.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion",
       "bundleIdentifier": "com.alightmotion.app",
