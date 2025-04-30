@@ -230,7 +230,7 @@
       "developerName": "askhabm",
       "size": "71000000",
       "version": "10.6.5",
-      "localizedDescription": "**Активирована подписка!**",
+      "localizedDescription": "Активирована подписка!",
       "versionDate": "2025-04-23",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Bazaart.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/bazaart.png",
@@ -257,7 +257,7 @@
       "localizedDescription": "Активирована подписка!",
       "versionDate": "2025-04-29",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/PureStatus.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/purestatus.png.png",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/purestatus.png",
       "tintColor": "25D366"
     },
 {
