@@ -272,6 +272,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/dazz.png",
       "tintColor": "25D366"
     },
+	{
+      "name": "Filmora+",
+      "bundleIdentifier": "com.filmora.app",
+      "developerName": "askhabm",
+      "size": "355000000",
+      "version": "",
+      "localizedDescription": "Активирована подписка!",
+      "versionDate": "2025-04-23",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Filmora.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/filmora.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion",
       "bundleIdentifier": "com.alightmotion.app",
