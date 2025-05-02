@@ -39,6 +39,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/sberbank-icon.png",
       "tintColor": "25D366"
     },
+	{
+      "name": "T-Банк",
+      "bundleIdentifier": "com.tbank.app",
+      "developerName": "SignApp",
+      "size": "180000000",
+      "version": "1.0.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/T-Bank.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/tbank.png",
+      "tintColor": "25D366"
+    },
  {
       "name": "СовкомБанк",
       "bundleIdentifier": "com.sovkombank.app",
@@ -49,6 +61,66 @@
       "size": "31600000",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sovkombank_tg.@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/sovkombank.png",
+      "tintColor": "25D366"
+    },
+		{
+      "name": "Газпромбанк",
+      "bundleIdentifier": "com.gazprombank.app",
+      "developerName": "SignApp",
+      "size": "200000000",
+      "version": "4.12.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-24",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/gazprombank.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/gazprombank.png",
+      "tintColor": "25D366"
+    },
+	  {
+      "name": "РосельхозБанк ",
+      "bundleIdentifier": "com.rshb.app",
+      "developerName": "SignApp",
+      "size": "26000000",
+      "version": "1.0.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/RSHB.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/rshb.png",
+      "tintColor": "25D366"
+	  },
+	      {
+      "name": "РосБанк",
+      "bundleIdentifier": "com.rosbank.app",
+      "developerName": "SignApp",
+      "size": "116000000",
+      "version": "1.0.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/rosbank.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/rosbank.png",
+      "tintColor": "25D366"
+    },
+	    {
+      "name": "ПСБ",
+      "bundleIdentifier": "com.psb.app",
+      "developerName": "SignApp",
+      "size": "67000000",
+      "version": "1.0.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/PS.Balans.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/psbalans.png",
+      "tintColor": "25D366"
+    },
+	    {
+      "name": "Почта Банк",
+      "bundleIdentifier": "com.pochtabank.app",
+      "developerName": "SignApp",
+      "size": "152000000",
+      "version": "1.0.0",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/pochtabank.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/pochtabank.png",
       "tintColor": "25D366"
     },
 {
@@ -76,79 +148,7 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/instagram.png",
       "tintColor": "25D366"
     },
-{
-      "name": "T-Банк",
-      "bundleIdentifier": "com.tbank.app",
-      "developerName": "SignApp",
-      "size": "180000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/T-Bank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/tbank.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "РосельхозБанк ",
-      "bundleIdentifier": "com.rshb.app",
-      "developerName": "SignApp",
-      "size": "26000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/RSHB.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/rshb.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "Альфа-Банк",
-      "bundleIdentifier": "com.alfabank.app",
-      "developerName": "SignApp",
-      "size": "136000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Alfa.1.4.2.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/alfabank.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "РосБанк",
-      "bundleIdentifier": "com.rosbank.app",
-      "developerName": "SignApp",
-      "size": "116000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/rosbank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/rosbank.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "ПСБ",
-      "bundleIdentifier": "com.psb.app",
-      "developerName": "SignApp",
-      "size": "67000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/PS.Balans.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/psbalans.png",
-      "tintColor": "25D366"
-    },
-    {
-      "name": "Почта Банк",
-      "bundleIdentifier": "com.pochtabank.app",
-      "developerName": "SignApp",
-      "size": "152000000",
-      "version": "1.0.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-22",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/pochtabank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/pochtabank.png",
-      "tintColor": "25D366"
-    },
-    
+ 
     {
       "name": "PicsArt",
       "bundleIdentifier": "com.picsart.app",
@@ -354,18 +354,6 @@
       "versionDate": "2025-04-24",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/T_invest.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/t_invest.png",
-      "tintColor": "25D366"
-    },
-	{
-      "name": "Газпромбанк",
-      "bundleIdentifier": "com.gazprombank.app",
-      "developerName": "SignApp",
-      "size": "200000000",
-      "version": "4.12.0",
-      "localizedDescription": "❚ Удален из AppStore!",
-      "versionDate": "2025-04-24",
-      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/gazprombank.ipa",
-      "iconURL": "https://askhabm.github.io/SignApp/icons/gazprombank.png",
       "tintColor": "25D366"
     },
 {
