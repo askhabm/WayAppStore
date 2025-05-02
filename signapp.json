@@ -33,7 +33,7 @@
       "developerName": "SignApp",
       "size": "224000000",
       "version": "1.0.0",
-      "localizedDescription": "",
+      "localizedDescription": "❚ Удален из AppStore!",
       "versionDate": "2025-05-02",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Sberbank_tg_@signappfiles.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/sberbank-icon.png",
@@ -150,7 +150,7 @@
     },
  
     {
-      "name": "PicsArt",
+      "name": "PicsArt Pro",
       "bundleIdentifier": "com.picsart.app",
       "developerName": "SignApp",
       "size": "95000000",
@@ -189,7 +189,7 @@
     },
     
      {
-      "name": "VK Музыка",
+      "name": "VK Музыка+",
       "bundleIdentifier": "com.vkmusic.app",
       "developerName": "SignApp",
       "size": "76000000",
@@ -225,7 +225,7 @@
       "tintColor": "25D366"
     },
     {
-      "name": "Bazaart",
+      "name": "Bazaart Pro",
       "bundleIdentifier": "com.bazaart.app",
       "developerName": "SignApp",
       "size": "71000000",
@@ -237,7 +237,7 @@
       "tintColor": "25D366"
     },
     {
-      "name": "ReelsApp",
+      "name": "ReelsApp Pro",
       "bundleIdentifier": "com.reels.app",
       "developerName": "SignApp",
       "size": "60000000",
@@ -249,7 +249,7 @@
       "tintColor": "25D366"
     },
     {
-      "name": "PureStatus",
+      "name": "PureStatus Pro",
       "bundleIdentifier": "com.purestatus.app",
       "developerName": "SignApp",
       "size": "43000000",
@@ -261,7 +261,7 @@
       "tintColor": "25D366"
     },
     {
-      "name": "Dazz",
+      "name": "Dazz Pro",
       "bundleIdentifier": "com.dazz.app",
       "developerName": "SignApp",
       "size": "85000000",
@@ -273,7 +273,7 @@
       "tintColor": "25D366"
     },
 	{
-      "name": "Filmora+",
+      "name": "Filmora Pro",
       "bundleIdentifier": "com.filmora.app",
       "developerName": "SignApp",
       "size": "355000000",
@@ -285,13 +285,13 @@
       "tintColor": "25D366"
     },
 	{
-      "name": "Uplens",
+      "name": "Uplens Pro",
       "bundleIdentifier": "com.uplens.app",
       "developerName": "SignApp",
       "size": "179390382.16",
       "version": "2.8.16",
       "localizedDescription": "❚ Активирована подписка!",
-      "versionDate": "2025-05-1",
+      "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Uplens_2.8.16.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/uplens.png",
       "tintColor": "25D366"
@@ -309,7 +309,7 @@
       "tintColor": "25D366"
     },
 	{
-      "name": "Liftoff",
+      "name": "Liftoff Pro",
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "SignApp",
       "size": "84000000",
@@ -321,7 +321,7 @@
       "tintColor": "25D366"
     },
 	{
-      "name": "Spotify",
+      "name": "Spotify+",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "SignApp",
       "size": "77300000",
@@ -357,7 +357,7 @@
       "tintColor": "25D366"
     },
 {
-      "name": "AlightMotion",
+      "name": "AlightMotion Pro",
       "bundleIdentifier": "com.alightmotion.app",
       "developerName": "SignApp",
       "localizedDescription": "❚ Активирована подписка!",
