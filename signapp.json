@@ -27,6 +27,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/wabusiness.png",
       "tintColor": "25D366"
     },
+	{
+      "name": "TikTok Mod",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "SignApp",
+      "size": "295000000",
+      "version": "39.8.0",
+      "localizedDescription": "❚ Откройте скачанный мод TikTok -> Настройки TikTok ->\n BHTikTok -> Включаете тумблер (Включить смену региона) и выбераете любой регион кроме России",
+      "versionDate": "2025-05-02",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/TikTok_39.8.0.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/tiktok.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "Сбербанк Онлайн",
       "bundleIdentifier": "com.sberbank.app",
@@ -168,7 +180,7 @@
       "developerName": "SignApp",
       "size": "416000000",
       "version": "1.0.0",
-      "localizedDescription": "Дубликат",
+      "localizedDescription": "❚ Дубликат",
       "versionDate": "2025-04-22",
       "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Avito.ipa",
       "iconURL": "https://askhabm.github.io/SignApp/icons/avito.png",
