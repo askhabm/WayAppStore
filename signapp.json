@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "WhatsApp+",
-      "bundleIdentifier": "net.whatapp.WhatsApp+",
+      "bundleIdentifier": "net.whatapp.WhatsApp",
       "developerName": "SignApp",
       "localizedDescription": "❚ Антиудаление фото видео\n❚ Антиудаление статусов.\n❚ Просмотр и сохранение одноразовых фото и видео.\n❚ Сохранение статусов\n❚ Замарозка онлайна\n❚ Подмена контактов\n❚ Скрытые чаты\n❚ Убрана реклама Watusi.",
       "version": "25.6.2",
@@ -17,7 +17,7 @@
     },
     {
       "name": "WABusiness+",
-      "bundleIdentifier": "net.whatsapp.SMB+",
+      "bundleIdentifier": "net.whatsapp.SMB",
       "developerName": "SignApp",
       "localizedDescription": "❚ Антиудаление фото видео\n❚ Антиудаление статусов.\n❚ Просмотр и сохранение одноразовых фото и видео.\n❚ Сохранение статусов\n❚ Замарозка онлайна\n❚ Подмена контактов\n❚ Скрытые чаты\n❚ Убрана реклама Watusi.",
       "version": "25.6.72",
