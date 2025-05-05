@@ -368,6 +368,19 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/t_invest.png",
       "tintColor": "25D366"
     },
+	  
+	{
+      "name": "AirBrush Pro",
+      "bundleIdentifier": "com.magicv.AirBrush",
+      "developerName": "SignApp",
+      "size": "360000000",
+      "version": "7.7.0",
+      "localizedDescription": "❚ Активирована подписка!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/AirBrush_7.7.0.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/airbrush.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion Pro",
       "bundleIdentifier": "com.alightmotion.app",
