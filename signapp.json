@@ -381,9 +381,9 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/airbrush.png",
       "tintColor": "25D366"
     },
-	  	{
+{
       "name": "Альфа Банк",
-      "bundleIdentifier": "com.avito",
+      "bundleIdentifier": "com.alfabank",
       "developerName": "SignApp",
       "size": "1350000000",
       "version": "1.4.2",
