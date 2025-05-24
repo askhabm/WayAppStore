@@ -381,6 +381,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/airbrush.png",
       "tintColor": "25D366"
     },
+	  	{
+      "name": "Альфа Банк",
+      "bundleIdentifier": "com.avito",
+      "developerName": "SignApp",
+      "size": "1350000000",
+      "version": "1.4.2",
+      "localizedDescription": "❚ Удален из AppStore!",
+      "versionDate": "2025-04-22",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Alfa.1.4.2.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/alfa.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "AlightMotion Pro",
       "bundleIdentifier": "com.alightmotion.app",
