@@ -27,6 +27,18 @@
       "iconURL": "https://askhabm.github.io/SignApp/icons/wabusiness.png",
       "tintColor": "25D366"
     },
+	  {
+      "name": "Feather",
+      "bundleIdentifier": "net.krysalyh",
+      "developerName": "SignApp",
+      "localizedDescription": "Обновление.",
+      "version": "2.0.1",
+      "versionDate": "2025-06-07",
+      "size": "10000000",
+      "downloadURL": "https://github.com/askhabm/SignApp/releases/download/24.04.2025/Feather.2.0.1.ipa",
+      "iconURL": "https://askhabm.github.io/SignApp/icons/feather.png",
+      "tintColor": "25D366"
+    },
 	{
       "name": "TikTok Mod",
       "bundleIdentifier": "com.zhiliaoapp.musically",
