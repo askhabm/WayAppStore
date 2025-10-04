@@ -1,2 +1,2 @@
-# SignApp ipa files
+Каталог приложений WayAppStore 
 
